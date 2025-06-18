@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "homepage": "https://github.com/foobar404/zen-mods",
     "description": "This is just a test",
-    "style": "https://raw.githubusercontent.com/foobar404/zen-mods/main/theme.css",
+    "style": "https://raw.githubusercontent.com/foobar404/zen-mods/main/chrome.css",
     "readme": "https://raw.githubusercontent.com/foobar404/zen-mods/main/README.md",
     "editable-files": [
         "readme.md",
